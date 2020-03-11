@@ -9,4 +9,3 @@ datetime
 plotly
 ipywidgets
 plotly
-time
