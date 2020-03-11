@@ -1,0 +1,14 @@
+{
+    "VoilaConfiguration": {
+        "enable_nbextensions": true,
+        "extension_language_mapping": {
+            ".py": "python",
+            ".pd": "pandas",
+            ".np": "numpy",
+            ".go": "plotly.graph_objects",
+        },
+        "language_kernel_mapping": {
+            "python": "python3"
+        }
+    }
+}
