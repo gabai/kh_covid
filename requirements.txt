@@ -8,5 +8,5 @@ pandas
 datetime
 plotly
 ipywidgets
-plotly.express
+plotly
 time
