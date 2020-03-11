@@ -6,5 +6,7 @@ requests
 numpy
 pandas
 datetime
-plotly.graph_objects
+plotly
+ipywidgets
+plotly.express
 time
