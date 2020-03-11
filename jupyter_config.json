@@ -6,6 +6,9 @@
             ".pd": "pandas",
             ".np": "numpy",
             ".go": "plotly.graph_objects",
+			".px": "plotly.express",
+            ".plt": "bqplot",
+            ".widgets": "ipywidgets"
         },
         "language_kernel_mapping": {
             "python": "python3"
