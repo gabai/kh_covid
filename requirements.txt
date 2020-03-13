@@ -9,3 +9,7 @@ datetime
 plotly
 ipywidgets
 plotly
+json
+bqplot
+ipython
+ipwidgets
